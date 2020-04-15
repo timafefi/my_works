@@ -33,7 +33,7 @@ telnet 0 [port]
 
 4)game_manager_robot.cpp
 
-A simple boot that connects to the server and plays the manager_game using a simplest strategy
+A simple bot that connects to the server and plays the manager_game using a simplest strategy
 
 5)domain_reg.py
 
