@@ -1,5 +1,5 @@
 # my_works
-Some programs that I have written throughout my programming life
+Some programs that I have developed throughout my programming life
 
 
 Here is a description of how each program in this repository works:
