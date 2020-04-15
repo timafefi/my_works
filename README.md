@@ -27,8 +27,18 @@ A multiplayer console game written using the server above. The rules of the game
 
 Startup example:
 
-./game <port> <amount of players>
-  
-telnet 0 <port>
+./game [port] [amount of players] 
 
-4)
+telnet 0 [port]
+
+4)game_manager_robot.cpp
+
+A simple boot that connects to the server and plays the manager_game using a simplest strategy
+
+5)domain_reg.py
+
+A program that automatizes the process of registrating domain names using Selenium Webdriver module.
+
+Input data:
+
+registrator_url:email:passoword:domain_name:profile_name:profile_email:dns1:dns2:[dns3]:[dns4]
